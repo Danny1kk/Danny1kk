@@ -2,8 +2,7 @@
 
 
 
-## <img src = "file:///C:/Users/Daniil/Downloads/doom_python.gif" alt="The Unlimited" width="600">
-
+## <img src = "https://drive.google.com/file/d/1RGUrI0uOAd3WBBCA53qu5MIxmSNE3v7Z/view" alt="The Unlimited" width="600">
 
 ![](https://img.shields.io/badge/py-python-blue?style=flat&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/fg-figma-a259ff?style=flat&logo=figma&logoColor=white)
