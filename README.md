@@ -6,3 +6,6 @@
 
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=flat&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/fg-figma-brightgreen?style=flat&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pc-pycharm-yellow?style=flat&logo=pycharm)
+
