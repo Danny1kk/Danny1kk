@@ -2,15 +2,6 @@
 
 <img src = "https://github.com/Danny1kk/Danny1kk/blob/main/doom_python.gif" alt = "doom_python.gif" width = "600">
 
-![doom_python](https://github.com/Danny1kk/Danny1kk/blob/main/doom_python.gif "doom_python")
-
-
-<video autoplay="autoplay" muted loop webkit-playsinline playsinline class="alignleft">
-	<source type="video/mp4" src="https://i.gifer.com/ICE.mp4"/>
-</video>
-
-
-
 
 ![](https://img.shields.io/badge/py-python-blue?style=flat&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/fg-figma-a259ff?style=flat&logo=figma&logoColor=white)
