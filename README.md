@@ -1,6 +1,16 @@
 ## Hi👋, My name is Daniel
 
-<img src = "https://github.com/Danny1kk/Danny1kk/blob/main/doom_python.gif" alt = "The Unlimited" width = "600">
+<img src = "https://github.com/Danny1kk/Danny1kk/blob/main/doom_python.gif" alt = "doom_python.gif" width = "600">
+
+![doom_python](https://github.com/Danny1kk/Danny1kk/blob/main/doom_python.gif "doom_python")
+
+
+<video autoplay="autoplay" muted loop webkit-playsinline playsinline class="alignleft">
+	<source type="video/mp4" src="https://i.gifer.com/ICE.mp4"/>
+</video>
+
+
+
 
 ![](https://img.shields.io/badge/py-python-blue?style=flat&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/fg-figma-a259ff?style=flat&logo=figma&logoColor=white)
@@ -17,7 +27,7 @@
 
 ## :man_technologist: About Me :
 
- <img src="https://i.gifer.com/2uG0.gif" width="100"> I'm just learning Python, don't judge too harshly 😅 from Russia.
+ <img src="https://i.gifer.com/2uG0.gif" alt = "2uG0.gif" width="100"> I'm just learning Python, don't judge too harshly 😅 from Russia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny1kk&show_icons=true&theme=onedark)
 
