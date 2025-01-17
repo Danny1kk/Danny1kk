@@ -10,7 +10,8 @@
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
 
-  <a href="https://web.telegram.org/a/" target="_blank"><img src="https://img.shields.io/badge/tg-telegram-0088cc?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/danny4k" target="_blank"><img src="https://img.shields.io/badge/tg-telegram-0088cc?style=flat&logo=telegram&logoColor=white"></a>
+
   <!--
   <a href="https://twitter.com/im_vishalanand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
