@@ -2,10 +2,7 @@
 
 
 
-## ![](https://psv4.userapi.com/s/v1/d/K_DeaKEsC0oj2NU2uSbI5kFzhHRcagJa1ZJCTkElL2o7_4vdOv7vQZA8_K7ecIAE7AgZNnTVDy9VnJetsspmcLv_tsvN9deEqQudUir4ItuvvE5DE70nAw/doom_python.gif)
-![image](https://github.com/user-attachments/assets/73f430bc-b428-413f-a5f9-fb87580bba05)
-![image](https://github.com/user-attachments/assets/ef8c9342-a4f6-4f3e-b410-6fe54b993668)
-
+## ![]()
 
 ![](https://img.shields.io/badge/py-python-blue?style=flat&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/fg-figma-a259ff?style=flat&logo=figma&logoColor=white)
