@@ -18,7 +18,7 @@
 
 ## :man_technologist: About Me :
 
- <img src="https://i.gifer.com/2uG0.gif" alt = "2uG0.gif" width="100"> I'm just learning Python, don't judge too harshly 😅 from Russia.
+ <img src="https://github.com/Danny1kk/Danny1kk/blob/main/cat_programming.webp" alt = "cat_programming.webp" width="100"> I'm just learning Python, don't judge too harshly 😅 from Russia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny1kk&show_icons=true&theme=onedark)
 
