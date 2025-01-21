@@ -1,4 +1,4 @@
-## Hi👋, My name is Daniel
+# Hi👋, My name is Daniel
 
 <img src ="https://github.com/Danny1kk/Danny1kk/blob/main/doom_python.webp" alt="doom_python.webp" width="600">
 
@@ -17,7 +17,7 @@
   <a href="https://discordapp.com/users/716544462997815347" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
   -->
 
-## :man_technologist: About Me :
+# :man_technologist: About Me :
 
  <img src="https://github.com/Danny1kk/Danny1kk/blob/main/cat_programming.webp" alt = "cat_programming.webp" width="100"> I'm just learning Python, don't judge too harshly 😅 from Russia.
 
@@ -36,4 +36,12 @@
 📩 How to contact me **danny.koshik@gmail.com**
 
 
-### Thanks for visiting! 😊
+# 🤗 Support :
+
+
+### <p><p align="center"><tt>if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</tt></p></p>
+
+<p align="center"><button type="button" name="popup-button">Donate</button></p>
+
+
+# Thanks for visiting! 😊
