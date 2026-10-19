@@ -30,9 +30,14 @@
   
 🍀 I'm currently working with **Java Core, Spring Boot, Microservices, and Kafka**, and exploring **Python**
 
-👨🏻‍💻 Visit my **[Portfolio](https://)**
+# 👨🏻‍💻 Visit my **[Portfolio]**:
+* 🎬 **[Java Filmorate](https://github.com/Danny1kk/java-filmorate)** — Backend service for movie selection, friend management, and film ratings (Spring Boot, PostgreSQL, REST API).
+* 🏙️ **[Java Explore With Me](https://github.com/Danny1kk/java-explore-with-me)** — Multi-module microservice application for event organization (developed as a team lead).
+* 🎓 **[Java Plus Graduation](https://github.com/Danny1kk/java-plus-graduation)** — Advanced capstone project featuring extended business logic and architecture.
 
-🪪 Find out more about me in **[My Resume](https://hh.ru/resume/0d40e30eff0f3c241b0039ed1f327134443258?hhtmFrom=main)**
+
+
+# 🪪 Find out more about me in **[My Resume](https://hh.ru/resume/0d40e30eff0f3c241b0039ed1f327134443258?hhtmFrom=main)**
 
 🗯️ Ask me about **Java, Spring, REST APIs, Databases, or Figma**
 
