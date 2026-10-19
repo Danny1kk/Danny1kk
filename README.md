@@ -32,7 +32,7 @@
 
 👨🏻‍💻 Visit my **[Portfolio](https://)**
 
-🪪 Find out more about me in **[My Resume]([https://](https://hh.ru/resume/0d40e30eff0f3c241b0039ed1f327134443258?hhtmFrom=main))**
+🪪 Find out more about me in **[My Resume]([https://hh.ru/resume/0d40e30eff0f3c241b0039ed1f327134443258?hhtmFrom=main])**
 
 🗯️ Ask me about **Java, Spring, REST APIs, Databases, or Figma**
 
